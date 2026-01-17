@@ -1,0 +1,8 @@
+{
+  "name": "My Life Log",
+  "short_name": "LifeLog",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#ff9f43"
+}
